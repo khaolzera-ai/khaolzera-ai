@@ -1,37 +1,51 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=850&height=70&lines=%3E+BOOTING+PLAYER+PROFILE...;%3E+RAFAEL+MOREIRA.EXE;%3E+WELCOME+TO+THE+PIXEL+ZONE" alt="Rafael Moreira - terminal pixel" />
+<img width="100%" alt="Rafael Moreira - Gestão e Tecnologia" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0B1220,55:142C49,100:3446A2&text=RAFAEL%20MOREIRA&fontSize=40&fontColor=FFFFFF&fontAlignY=40&desc=GESTAO%20OPERACIONAL%20%7C%20SISTEMAS%20%7C%20DADOS&descSize=16&descAlignY=68&animation=fadeIn" />
 
-# 👾 RAFAEL MOREIRA
+### 🎮 Estratégia de jogo. Mentalidade de gestão. Soluções reais.
 
-*[ PLAYER ONE ]* &nbsp; *[ DEV IN PROGRESS ]* &nbsp; *[ SYSTEM ONLINE 🟢 ]*
-
-<img src="https://img.shields.io/badge/CLASS-DEV%20%2B%20AUTOMA%C3%87%C3%83O-39FF14?style=for-the-badge&labelColor=0D1117" alt="Classe" />
-<img src="https://img.shields.io/badge/MODE-CYBERPUNK%208--BIT-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Modo" />
-<img src="https://img.shields.io/badge/QUEST-LEVEL%20UP-FF43C6?style=for-the-badge&labelColor=0D1117" alt="Missão" />
+<img src="https://img.shields.io/badge/FOCO-GEST%C3%83O%20%26%20TECNOLOGIA-38BDF8?style=for-the-badge&labelColor=101827" alt="Gestão e Tecnologia" />
+<img src="https://img.shields.io/badge/ABORDAGEM-MELHORIA%20CONT%C3%8DNUA-818CF8?style=for-the-badge&labelColor=101827" alt="Melhoria contínua" />
+<img src="https://img.shields.io/badge/STATUS-CONSTRUINDO-22C55E?style=for-the-badge&labelColor=101827" alt="Construindo" />
 
 </div>
 
 ---
 
-## 🕹️ 01 // PLAYER PROFILE
+## 🧭 01 · COMMAND CENTER
 
-text
-╔════════════════════════════════════════════════════════════╗
-║  PLAYER  : RAFAEL MOREIRA                                  ║
-║  CLASS   : DEV EM EVOLUÇÃO                                 ║
-║  SKILLS  : GESTÃO • AUTOMAÇÃO • DADOS                      ║
-║  MISSION : TRANSFORMAR PROBLEMAS REAIS EM SOLUÇÕES         ║
-║  STATUS  : [ ONLINE ]                                      ║
-╠════════════════════════════════════════════════════════════╣
-║  XP DE APRENDIZADO                                         ║
-║  ████████░░  PRÓXIMA FASE: MAIS JAVASCRIPT                 ║
-╚════════════════════════════════════════════════════════════╝
+Sou um profissional de *gestão operacional* que desenvolve soluções digitais para organizar processos, apoiar decisões e dar mais visibilidade às rotinas de trabalho.
 
+Combino experiência com *equipes, contratos, indicadores e melhoria de processos* com estudos e projetos práticos em *programação, automação e dados*.
 
-> 🎯 *Missão principal:* aprender, construir e melhorar processos com tecnologia. Atualmente explorando *JavaScript, Python, ciência de dados e automação*.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🎒 02 // INVENTORY: TECH STACK
+<h3>🎯 Missão</h3>
+<p>Transformar problemas operacionais em ferramentas simples, úteis e escaláveis.</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🧠 Especialidades</h3>
+<p>Gestão de processos · Organização de dados · Desenvolvimento de sistemas · Visão analítica</p>
+
+</td>
+</tr>
+</table>
+
+## 🗺️ 02 · MAPA DE PROJETOS
+
+| Projeto | O que resolve | Situação |
+| :--- | :--- | :--- |
+| *🏢 PULSO* | Gestão de contratos, colaboradores, faltas, ocorrências e relatórios. | 🟦 Em evolução |
+| *📍 GeoChegada* | Registro de chegada por geolocalização e administração de locais e contratos. | 🟦 Em evolução |
+| *🧩 JavaScript Labs* | Exercícios de lógica e fundamentos de programação, com desafios progressivos. | 🟩 Aprendizado contínuo |
+
+> *Princípio dos projetos:* começar pelo problema real, organizar os dados, construir uma solução funcional e melhorar com o uso.
+
+## 🧰 03 · ARSENAL DE FERRAMENTAS
 
 <div align="center">
 
@@ -39,75 +53,57 @@ text
 
 <br />
 
-<img src="https://img.shields.io/badge/JavaScript-LEVELING%20UP-F7DF1E?style=flat-square&labelColor=111827" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-EXPLORING-3776AB?style=flat-square&labelColor=111827" alt="Python" />
-<img src="https://img.shields.io/badge/Supabase-BUILDING-3ECF8E?style=flat-square&labelColor=111827" alt="Supabase" />
+<img src="https://img.shields.io/badge/JavaScript-EM%20ESTUDO-F7DF1E?style=flat-square&labelColor=101827" alt="JavaScript em estudo" />
+<img src="https://img.shields.io/badge/Python-PROJETOS%20PR%C3%81TICOS-3776AB?style=flat-square&labelColor=101827" alt="Python" />
+<img src="https://img.shields.io/badge/Supabase-BANCO%20DE%20DADOS-3ECF8E?style=flat-square&labelColor=101827" alt="Supabase" />
 
 </div>
 
-## 🗺️ 03 // WORLD MAP: PROJECTS
+## 📊 04 · MEU GAME LOOP DE GESTÃO
 
-<table>
-  <tr>
-    <th>FASE</th>
-    <th>MISSÃO</th>
-    <th>DESCRIÇÃO</th>
-  </tr>
-  <tr>
-    <td>🏢 LEVEL 01</td>
-    <td><b>PULSO</b></td>
-    <td>Sistema de gestão operacional: colaboradores, contratos, faltas, ocorrências e relatórios.</td>
-  </tr>
-  <tr>
-    <td>📍 LEVEL 02</td>
-    <td><b>GeoChegada</b></td>
-    <td>Registro de chegada por geolocalização com contratos e painel administrativo.</td>
-  </tr>
-  <tr>
-    <td>🧩 LEVEL 03</td>
-    <td><b>JavaScript Labs</b></td>
-    <td>Exercícios e desafios de lógica, condicionais e estruturas de repetição.</td>
-  </tr>
-</table>
+text
+     PLANEJAR            EXECUTAR            MEDIR             EVOLUIR
+  +--------------+   +--------------+   +--------------+   +--------------+
+  | DEFINIR      |-->| CRIAR        |-->| ACOMPANHAR   |-->| OTIMIZAR     |
+  | OBJETIVOS    |   | SOLUCOES     |   | INDICADORES  |   | PROCESSOS    |
+  +--------------+   +--------------+   +--------------+   +--------------+
+            ^                                                    |
+            +----------------------------------------------------+
 
-## 📜 04 // QUEST LOG
 
-- [x] 🎮 Criar perfil no GitHub
-- [x] 👾 Personalizar o README com visual pixel/RPG
-- [ ] ⚔️ Avançar nos desafios de JavaScript
-- [ ] 🛠️ Evoluir o PULSO
-- [ ] 📡 Expandir o GeoChegada
-- [ ] 🏆 Publicar novas soluções e conquistar novos níveis
+A referência aos games está na *progressão por fases, clareza de objetivos e evolução constante*.
 
-## 📊 05 // PLAYER STATS
+A execução segue princípios de gestão: priorização, indicadores, documentação e melhoria contínua.
+
+## 🏁 05 · ROADMAP / PRÓXIMAS MISSÕES
+
+- [x] Estruturar projetos próprios para desafios operacionais
+- [x] Desenvolver uma identidade profissional no GitHub
+- [ ] Ampliar os relatórios e indicadores do PULSO
+- [ ] Evoluir os fluxos administrativos do GeoChegada
+- [ ] Consolidar fundamentos de JavaScript (if, else, for, while)
+- [ ] Documentar e publicar novas entregas
+
+## 📈 06 · GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khaolzera-ai&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E6EDF3&icon_color=00E5FF" alt="Estatísticas públicas do GitHub" />
+<img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=khaolzera-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1220&title_color=38BDF8&text_color=CBD5E1&icon_color=818CF8" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaolzera-ai&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E6EDF3" alt="Linguagens nos repositórios públicos" />
+<img height="170" alt="Linguagens utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaolzera-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1220&title_color=38BDF8&text_color=CBD5E1" />
 
 </div>
-
-## 🏆 06 // ACHIEVEMENTS UNLOCKED
-
-text
-[✓] FIRST COMMIT       • Todo projeto começa com um passo
-[✓] PROFILE CUSTOMIZED • Identidade visual desbloqueada
-[+] NEW QUESTS FOUND   • Aprendizado em andamento
-[ ] FINAL BOSS         • Ainda não existe. Sempre há próxima fase.
-
 
 ---
 
 <div align="center">
 
-### > INSERT COIN TO CONTINUE_
+### 🚀 PRÓXIMO NÍVEL
 
-*Cada commit é XP. Cada bug é um boss. Cada projeto é uma fase.*
+*Games inspiram a experiência. Gestão orienta a execução. Tecnologia entrega o resultado.*
 
-<img src="https://img.shields.io/badge/GAME-NOT%20OVER-39FF14?style=for-the-badge&labelColor=0D1117" alt="Game not over" />
-
-<sub>🟢 SYSTEM ONLINE · MADE WITH ☕ + CODE + PIXELS</sub>
+<a href="https://github.com/khaolzera-ai?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORAR-PROJETOS-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=101827" alt="Meus projetos" />
+</a>
 
 </div>
