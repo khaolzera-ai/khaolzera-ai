@@ -33,7 +33,7 @@ const rafaelMoreira = {
     desistir: false
 };
 
-while (rafaelDev.desistir === false) {
+while (rafaelMoreira.desistir === false) {
     console.log("Aprender. Praticar. Evoluir.");
     break; // Uma demonstração: um ciclo por execução
 }
