@@ -1,96 +1,69 @@
+
+<!-- BANNER PRINCIPAL -->
 <div align="center">
 
-<img width="100%" alt="Rafael Moreira - Gestão e Tecnologia" src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0B1220,55:142C49,100:3446A2&text=RAFAEL%20MOREIRA&fontSize=40&fontColor=FFFFFF&fontAlignY=40&desc=GESTAO%20OPERACIONAL%20%7C%20SISTEMAS%20%7C%20DADOS&descSize=16&descAlignY=68&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:301060,100:00E5FF&height=200&section=header&text=PLAYER%20ONE&fontSize=55&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=CODE%20%7C%20DATA%20%7C%20TECH&descSize=18&descAlignY=55"/>
 
-### 🎮 Estratégia de jogo. Mentalidade de gestão. Soluções reais.
+# 👾 E aí, dev! Bem-vindo ao meu universo digital
 
-<img src="https://img.shields.io/badge/FOCO-GEST%C3%83O%20%26%20TECNOLOGIA-38BDF8?style=for-the-badge&labelColor=101827" alt="Gestão e Tecnologia" />
-<img src="https://img.shields.io/badge/ABORDAGEM-MELHORIA%20CONT%C3%8DNUA-818CF8?style=for-the-badge&labelColor=101827" alt="Melhoria contínua" />
-<img src="https://img.shields.io/badge/STATUS-CONSTRUINDO-22C55E?style=for-the-badge&labelColor=101827" alt="Construindo" />
+### `> Rafael | Estudante de Ciência de Dados`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Inicializando+modo+desenvolvedor...;Aprendendo+Python+e+JavaScript;Transformando+ideias+em+c%C3%B3digo;Level+up%3A+todos+os+dias!" alt="Animação de texto"/>
 
 </div>
 
 ---
 
-## 🧭 01 · COMMAND CENTER
+## 🎮 `PLAYER PROFILE`
 
-Sou um profissional de *gestão operacional* que desenvolve soluções digitais para organizar processos, apoiar decisões e dar mais visibilidade às rotinas de trabalho.
+```js
+const rafael = {
+    classe: "Data Science Student",
+    objetivo: "Full Stack Developer",
+    aprendendo: ["JavaScript", "Python", "SQL"],
+    interesses: [
+        "Ciência de Dados",
+        "Programação",
+        "Tecnologia",
+        "Automação"
+    ],
+    mentalidade: "Nunca parar de evoluir"
+};
 
-Combino experiência com *equipes, contratos, indicadores e melhoria de processos* com estudos e projetos práticos em *programação, automação e dados*.
+console.log("Iniciando nova jornada...");
+```
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🎯 Missão</h3>
-<p>Transformar problemas operacionais em ferramentas simples, úteis e escaláveis.</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🧠 Especialidades</h3>
-<p>Gestão de processos · Organização de dados · Desenvolvimento de sistemas · Visão analítica</p>
-
-</td>
-</tr>
-</table>
-
-## 🗺️ 02 · MAPA DE PROJETOS
-
-| Projeto | O que resolve | Situação |
-| :--- | :--- | :--- |
-| *🏢 PULSO* | Gestão de contratos, colaboradores, faltas, ocorrências e relatórios. | 🟦 Em evolução |
-| *📍 GeoChegada* | Registro de chegada por geolocalização e administração de locais e contratos. | 🟦 Em evolução |
-| *🧩 JavaScript Labs* | Exercícios de lógica e fundamentos de programação, com desafios progressivos. | 🟩 Aprendizado contínuo |
-
-> *Princípio dos projetos:* começar pelo problema real, organizar os dados, construir uma solução funcional e melhorar com o uso.
-
-## 🧰 03 · ARSENAL DE FERRAMENTAS
+## ⚡ `SKILL TREE`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,html,css,python,git,github,vscode,supabase&theme=dark" alt="Tecnologias" />
-
-<br />
-
-<img src="https://img.shields.io/badge/JavaScript-EM%20ESTUDO-F7DF1E?style=flat-square&labelColor=101827" alt="JavaScript em estudo" />
-<img src="https://img.shields.io/badge/Python-PROJETOS%20PR%C3%81TICOS-3776AB?style=flat-square&labelColor=101827" alt="Python" />
-<img src="https://img.shields.io/badge/Supabase-BANCO%20DE%20DADOS-3ECF8E?style=flat-square&labelColor=101827" alt="Supabase" />
+<img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode&theme=dark" alt="Tecnologias"/>
 
 </div>
 
-## 📊 04 · MEU GAME LOOP DE GESTÃO
+| Habilidade | Status |
+|---|---|
+| JavaScript | 🟢 Em aprendizado |
+| Python | 🟡 Em aprendizado |
+| Ciência de Dados | 🟡 Em desenvolvimento |
+| Git e GitHub | 🟡 Evoluindo |
 
-text
-     PLANEJAR            EXECUTAR            MEDIR             EVOLUIR
-  +--------------+   +--------------+   +--------------+   +--------------+
-  | DEFINIR      |-->| CRIAR        |-->| ACOMPANHAR   |-->| OTIMIZAR     |
-  | OBJETIVOS    |   | SOLUCOES     |   | INDICADORES  |   | PROCESSOS    |
-  +--------------+   +--------------+   +--------------+   +--------------+
-            ^                                                    |
-            +----------------------------------------------------+
+## 🕹️ `MISSIONS & PROJECTS`
 
+> 🎯 Missão principal: transformar conhecimento em projetos reais.
 
-A referência aos games está na *progressão por fases, clareza de objetivos e evolução constante*.
+- 💻 Desenvolver meus primeiros projetos de programação.
+- 📊 Aprender a analisar dados e encontrar soluções.
+- 🐍 Evoluir na linguagem Python.
+- ⚡ Criar ferramentas que resolvam problemas do dia a dia.
 
-A execução segue princípios de gestão: priorização, indicadores, documentação e melhoria contínua.
-
-## 🏁 05 · ROADMAP / PRÓXIMAS MISSÕES
-
-- [x] Estruturar projetos próprios para desafios operacionais
-- [x] Desenvolver uma identidade profissional no GitHub
-- [ ] Ampliar os relatórios e indicadores do PULSO
-- [ ] Evoluir os fluxos administrativos do GeoChegada
-- [ ] Consolidar fundamentos de JavaScript (if, else, for, while)
-- [ ] Documentar e publicar novas entregas
-
-## 📈 06 · GITHUB ANALYTICS
+## 📡 `PLAYER STATS`
 
 <div align="center">
 
-<img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=khaolzera-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1220&title_color=38BDF8&text_color=CBD5E1&icon_color=818CF8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=BC13FE&text_color=FFFFFF" alt="Estatísticas do GitHub"/>
 
-<img height="170" alt="Linguagens utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaolzera-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1220&title_color=38BDF8&text_color=CBD5E1" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00E5FF&text_color=FFFFFF" alt="Linguagens mais utilizadas"/>
 
 </div>
 
@@ -98,12 +71,10 @@ A execução segue princípios de gestão: priorização, indicadores, documenta
 
 <div align="center">
 
-### 🚀 PRÓXIMO NÍVEL
+### 💜 `GAME OVER? NEVER.`
 
-*Games inspiram a experiência. Gestão orienta a execução. Tecnologia entrega o resultado.*
+**Cada linha de código é um novo nível desbloqueado.**
 
-<a href="https://github.com/khaolzera-ai?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORAR-PROJETOS-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=101827" alt="Meus projetos" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:301060,100:050505&height=100&section=footer" width="100%"/>
 
 </div>
