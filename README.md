@@ -1,90 +1,108 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,50:650014,100:FF1744&height=220&text=RAFAEL.DEV&fontSize=58&fontColor=FFFFFF&stroke=FF1744&strokeWidth=2&animation=fadeIn&fontAlignY=50&desc=THE%20CODE%20HUNTER&descSize=18&descAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050505,50:5A0010,100:FF1744&text=RAFAEL.EXE&fontSize=65&fontColor=FFFFFF&stroke=FF1744&strokeWidth=2&animation=fadeIn&desc=CODE%20%2F%20LEARN%20%2F%20BUILD%20%2F%20EVOLVE&descSize=16&descAlignY=70"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2500&pause=700&color=FF1744&center=true&vCenter=true&width=650&lines=%5BSYSTEM+ONLINE%5D;%3E+Bem-vindo+ao+meu+universo+digital;%3E+Level+01%3A+Programador+em+forma%C3%A7%C3%A3o;%3E+Transformando+erros+em+experi%C3%AAncia;%3E+Loading+the+future...+%E2%96%88" alt="Terminal animado"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2500&pause=700&color=FF1744&center=true&vCenter=true&width=650&lines=%5BSYSTEM+ONLINE%5D;%3E+Inicializando+Rafael.exe...;%3E+Carregando+novas+habilidades...;%3E+Erro+404%3A+Limite+de+evolu%C3%A7%C3%A3o+n%C3%A3o+encontrado;%3E+O+pr%C3%B3ximo+level+come%C3%A7a+agora." alt="Terminal animado"/>
 
-<br/>
+### `PLAYER 01` · RAFAEL DEV
 
-[![GitHub](https://img.shields.io/badge/PLAYER-RAFAEL.DEV-FF1744?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-![Status](https://img.shields.io/badge/SYSTEM-ONLINE-111111?style=for-the-badge&logo=power&logoColor=FF1744)
+**[ SONHE. PLANEJE. CODIFIQUE. CONQUISTE. ]**
+
+[![GitHub](https://img.shields.io/badge/GITHUB-FF1744?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
+![Status](https://img.shields.io/badge/STATUS-EM_EVOLUÇÃO-111111?style=for-the-badge&logo=power&logoColor=FF1744)
 ![Level](https://img.shields.io/badge/LEVEL-01-111111?style=for-the-badge&logo=gamepad&logoColor=FF1744)
 
 </div>
 
 ---
 
-## 🩸 `01. IDENTITY`
+## `01 // QUEM ESTÁ POR TRÁS DA TELA?`
 
-> **Não nasci sabendo programar. Escolhi aprender.**
+Fala, dev! 👾
 
-Sou Rafael, estudante de programação e Ciência de Dados, começando minha jornada no universo do código.
+Sou Rafael, estudante de programação e Ciência de Dados, começando minha jornada no universo da tecnologia.
 
-Meu objetivo é transformar curiosidade em conhecimento, conhecimento em projetos e projetos em soluções reais.
+Ainda estou no início, mas já tenho algo importante: **vontade de aprender, coragem para errar e determinação para evoluir.**
+
+Meu objetivo é transformar ideias em código, problemas em soluções e conhecimento em projetos reais.
 
 ```js
-const rafaelMoreira = {
-    identidade: "The Code Hunter",
-    nivel: "Iniciante",
-    modo: "Aprendizado contínuo",
-    foco: ["JavaScript", "Python", "Ciência de Dados"],
-    missao: "Evoluir um pouco todos os dias",
-    desistir: false
+const rafael = {
+  codinome: "RAFAEL.EXE",
+  nivel: "Iniciante",
+  modo: "Aprendizado contínuo",
+  foco: ["JavaScript", "Python", "Data Science"],
+  objetivo: "Construir coisas incríveis",
+  limite: null
 };
 
-while (rafaelMoreira.desistir === false) {
-    console.log("Aprender. Praticar. Evoluir.");
-    break; // Uma demonstração: um ciclo por execução
-}
+console.log("BORA PRO PRÓXIMO LEVEL! 🚀");
 ```
 
-## ⚡ `02. TECH ARSENAL`
+## `02 // CHARACTER SELECT`
+
+| Atributo | Status |
+|:---|:---|
+| 🧠 Curiosidade | `MAX` |
+| 🔥 Determinação | `MAX` |
+| 💻 Experiência | `EM CONSTRUÇÃO` |
+| ⚡ Evolução | `EM ANDAMENTO` |
+| 🎯 Objetivo | `DESENVOLVEDOR` |
+
+*Os atributos são parte da identidade gamer, não métricas técnicas.*
+
+## `03 // ARSENAL TECNOLÓGICO`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode&theme=dark" alt="Arsenal de tecnologias"/>
+<img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode&theme=dark" alt="Tecnologias"/>
 
 </div>
 
-| Tecnologia | Status do jogador |
-|---|---|
-| JavaScript | `LEARNING` |
-| Python | `UNLOCKING...` |
-| Lógica de programação | `IN TRAINING` |
-| Git & GitHub | `EXPLORING` |
-| Ciência de Dados | `NEXT QUEST` |
+```text
+[01] JavaScript      -> APRENDENDO
+[02] Python          -> DESBLOQUEANDO
+[03] Lógica          -> TREINAMENTO
+[04] Git / GitHub    -> EXPLORANDO
+[05] Ciência de Dados -> PRÓXIMA MISSÃO
+```
 
-## 🎯 `03. QUEST LOG`
+## `04 // QUEST LOG`
 
-**MISSÃO PRINCIPAL:** tornar-me um desenvolvedor cada vez melhor.
+**MISSÃO PRINCIPAL:** evoluir um nível por vez.
 
 - [ ] Dominar a lógica de programação.
-- [ ] Aprender estruturas condicionais e laços.
-- [ ] Desenvolver meus primeiros projetos.
-- [ ] Evoluir em JavaScript e Python.
-- [ ] Explorar análise de dados.
-- [ ] Construir meu próprio portfólio.
+- [ ] Entender `if`, `else`, `while`, `do...while` e `for`.
+- [ ] Criar meus primeiros projetos com JavaScript.
+- [ ] Aprender Python e análise de dados.
+- [ ] Resolver problemas com código.
+- [ ] Construir um portfólio de projetos reais.
 
-## 🧪 `04. EXPERIMENT LAB`
+> Pequenos passos. Grandes sonhos. Nenhuma evolução acontece sem prática.
+
+## `05 // PROJECTS UNDER CONSTRUCTION`
 
 <div align="center">
 
-<a href="https://github.com/SEU-USUARIO?tab=repositories">
-<img src="https://img.shields.io/badge/ENTER%20THE%20LAB-Explore%20Projects-FF1744?style=for-the-badge&logo=github&logoColor=white" alt="Explorar laboratório de projetos"/>
-</a>
+[![Meus projetos](https://img.shields.io/badge/ABRIR%20LABORATÓRIO-FF1744?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO?tab=repositories)
 
 </div>
 
-*Projetos pequenos. Grandes aprendizados. Evolução constante.*
+```text
+> Procurando ideias...
+> Preparando ambiente...
+> Escrevendo primeiras linhas...
+> STATUS: NOVOS PROJETOS EM BREVE
+```
 
-## 📡 `05. PLAYER ANALYTICS`
+## `06 // PLAYER ANALYTICS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=080808&title_color=FF1744&icon_color=FF1744&text_color=EAEAEA" height="170" alt="Estatísticas do perfil"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=080808&title_color=FF1744&icon_color=FF1744&text_color=FFFFFF" height="170" alt="Estatísticas GitHub"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=080808&title_color=FF1744&text_color=EAEAEA" height="170" alt="Linguagens do perfil"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=080808&title_color=FF1744&text_color=FFFFFF" height="170" alt="Linguagens mais utilizadas"/>
 
 </div>
 
@@ -92,12 +110,16 @@ while (rafaelMoreira.desistir === false) {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,50:650014,100:050505&height=130&section=footer"/>
+### `SYSTEM MESSAGE`
 
-### `GAME STATUS: STILL LOADING...`
+**O melhor ainda está por vir.**
 
-**A próxima versão de mim será melhor que a anterior.**
+`FOCO > DISCIPLINA > ESTUDO > PROGRESSO`
 
-<sub>Built with curiosity • Powered by persistence • Rafael Dev ©</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,50:5A0010,100:050505&height=120&section=footer"/>
+
+<sub>RAFAEL.EXE // BUILDING MY OWN FUTURE</sub>
+
+### `GAME OVER? NEVER.`
 
 </div>
