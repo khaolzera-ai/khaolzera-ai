@@ -24,7 +24,7 @@ Sou Rafael, estudante de programação e Ciência de Dados, começando minha jor
 Meu objetivo é transformar curiosidade em conhecimento, conhecimento em projetos e projetos em soluções reais.
 
 ```js
-const rafaelDev = {
+const rafaelMoreira = {
     identidade: "The Code Hunter",
     nivel: "Iniciante",
     modo: "Aprendizado contínuo",
