@@ -1,69 +1,90 @@
 
-<!-- BANNER PRINCIPAL -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:301060,100:00E5FF&height=200&section=header&text=PLAYER%20ONE&fontSize=55&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=CODE%20%7C%20DATA%20%7C%20TECH&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,50:650014,100:FF1744&height=220&text=RAFAEL.DEV&fontSize=58&fontColor=FFFFFF&stroke=FF1744&strokeWidth=2&animation=fadeIn&fontAlignY=50&desc=THE%20CODE%20HUNTER&descSize=18&descAlignY=70"/>
 
-# 👾 E aí, dev! Bem-vindo ao meu universo digital
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2500&pause=700&color=FF1744&center=true&vCenter=true&width=650&lines=%5BSYSTEM+ONLINE%5D;%3E+Bem-vindo+ao+meu+universo+digital;%3E+Level+01%3A+Programador+em+forma%C3%A7%C3%A3o;%3E+Transformando+erros+em+experi%C3%AAncia;%3E+Loading+the+future...+%E2%96%88" alt="Terminal animado"/>
 
-### `> Rafael | Estudante de Ciência de Dados`
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Inicializando+modo+desenvolvedor...;Aprendendo+Python+e+JavaScript;Transformando+ideias+em+c%C3%B3digo;Level+up%3A+todos+os+dias!" alt="Animação de texto"/>
+[![GitHub](https://img.shields.io/badge/PLAYER-RAFAEL.DEV-FF1744?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+![Status](https://img.shields.io/badge/SYSTEM-ONLINE-111111?style=for-the-badge&logo=power&logoColor=FF1744)
+![Level](https://img.shields.io/badge/LEVEL-01-111111?style=for-the-badge&logo=gamepad&logoColor=FF1744)
 
 </div>
 
 ---
 
-## 🎮 `PLAYER PROFILE`
+## 🩸 `01. IDENTITY`
+
+> **Não nasci sabendo programar. Escolhi aprender.**
+
+Sou Rafael, estudante de programação e Ciência de Dados, começando minha jornada no universo do código.
+
+Meu objetivo é transformar curiosidade em conhecimento, conhecimento em projetos e projetos em soluções reais.
 
 ```js
-const rafael = {
-    classe: "Data Science Student",
-    objetivo: "Full Stack Developer",
-    aprendendo: ["JavaScript", "Python", "SQL"],
-    interesses: [
-        "Ciência de Dados",
-        "Programação",
-        "Tecnologia",
-        "Automação"
-    ],
-    mentalidade: "Nunca parar de evoluir"
+const rafaelDev = {
+    identidade: "The Code Hunter",
+    nivel: "Iniciante",
+    modo: "Aprendizado contínuo",
+    foco: ["JavaScript", "Python", "Ciência de Dados"],
+    missao: "Evoluir um pouco todos os dias",
+    desistir: false
 };
 
-console.log("Iniciando nova jornada...");
+while (rafaelDev.desistir === false) {
+    console.log("Aprender. Praticar. Evoluir.");
+    break; // Uma demonstração: um ciclo por execução
+}
 ```
 
-## ⚡ `SKILL TREE`
+## ⚡ `02. TECH ARSENAL`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode&theme=dark" alt="Tecnologias"/>
+<img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode&theme=dark" alt="Arsenal de tecnologias"/>
 
 </div>
 
-| Habilidade | Status |
+| Tecnologia | Status do jogador |
 |---|---|
-| JavaScript | 🟢 Em aprendizado |
-| Python | 🟡 Em aprendizado |
-| Ciência de Dados | 🟡 Em desenvolvimento |
-| Git e GitHub | 🟡 Evoluindo |
+| JavaScript | `LEARNING` |
+| Python | `UNLOCKING...` |
+| Lógica de programação | `IN TRAINING` |
+| Git & GitHub | `EXPLORING` |
+| Ciência de Dados | `NEXT QUEST` |
 
-## 🕹️ `MISSIONS & PROJECTS`
+## 🎯 `03. QUEST LOG`
 
-> 🎯 Missão principal: transformar conhecimento em projetos reais.
+**MISSÃO PRINCIPAL:** tornar-me um desenvolvedor cada vez melhor.
 
-- 💻 Desenvolver meus primeiros projetos de programação.
-- 📊 Aprender a analisar dados e encontrar soluções.
-- 🐍 Evoluir na linguagem Python.
-- ⚡ Criar ferramentas que resolvam problemas do dia a dia.
+- [ ] Dominar a lógica de programação.
+- [ ] Aprender estruturas condicionais e laços.
+- [ ] Desenvolver meus primeiros projetos.
+- [ ] Evoluir em JavaScript e Python.
+- [ ] Explorar análise de dados.
+- [ ] Construir meu próprio portfólio.
 
-## 📡 `PLAYER STATS`
+## 🧪 `04. EXPERIMENT LAB`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=BC13FE&text_color=FFFFFF" alt="Estatísticas do GitHub"/>
+<a href="https://github.com/SEU-USUARIO?tab=repositories">
+<img src="https://img.shields.io/badge/ENTER%20THE%20LAB-Explore%20Projects-FF1744?style=for-the-badge&logo=github&logoColor=white" alt="Explorar laboratório de projetos"/>
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00E5FF&text_color=FFFFFF" alt="Linguagens mais utilizadas"/>
+</div>
+
+*Projetos pequenos. Grandes aprendizados. Evolução constante.*
+
+## 📡 `05. PLAYER ANALYTICS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=080808&title_color=FF1744&icon_color=FF1744&text_color=EAEAEA" height="170" alt="Estatísticas do perfil"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=080808&title_color=FF1744&text_color=EAEAEA" height="170" alt="Linguagens do perfil"/>
 
 </div>
 
@@ -71,10 +92,12 @@ console.log("Iniciando nova jornada...");
 
 <div align="center">
 
-### 💜 `GAME OVER? NEVER.`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,50:650014,100:050505&height=130&section=footer"/>
 
-**Cada linha de código é um novo nível desbloqueado.**
+### `GAME STATUS: STILL LOADING...`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:301060,100:050505&height=100&section=footer" width="100%"/>
+**A próxima versão de mim será melhor que a anterior.**
+
+<sub>Built with curiosity • Powered by persistence • Rafael Dev ©</sub>
 
 </div>
