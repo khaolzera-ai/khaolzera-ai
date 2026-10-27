@@ -5,7 +5,7 @@
   <img src="rafael-dev-banner.png" width="100%" alt="Rafael Dev - Dark Gamer">
 </div>
 
-# 🔴 RAFAEL <span>DEV</span>
+# 🔴 RAFAEL <span></span>
 
 ### `CODE` / `LEARN` / `BUILD` / `EVOLVE`
 
@@ -23,17 +23,17 @@
 
 Fala, dev! 👋
 
-Sou Rafael, estudante de programação e Ciência de Dados, começando minha jornada no mundo da tecnologia.
+Sou Rafael, estudante de programação Frontend/Backend e Mobile, começando minha jornada no mundo da tecnologia.
 
 🎯 **Nível atual:** Iniciante  
-📚 **Foco:** JavaScript, Python e Ciência de Dados  
+📚 **Foco:** JavaScript/CSS/HTML/Java/Pynthon/PHP...  
 ⚡ **Mentalidade:** Aprender hoje. Construir o amanhã.
 
 Acredito que cada erro é uma oportunidade de aprender e cada projeto é um passo rumo à evolução.
 
 ---
 
-## 🎮 02 — STATUS DO JOGADOR
+## 🎮 02 — STATUS 
 
 | Habilidade | Status |
 |---|---|
@@ -70,7 +70,7 @@ Acredito que cada erro é uma oportunidade de aprender e cada projeto é um pass
 - [ ] Dominar a lógica de programação.
 - [ ] Entender `if`, `else`, `while`, `do...while` e `for`.
 - [ ] Criar meus primeiros projetos com JavaScript.
-- [ ] Aprender Python e análise de dados.
+- [ ] Aprender Python e outras linguagens.
 - [ ] Resolver problemas com código.
 - [ ] Construir um portfólio de projetos reais.
 
