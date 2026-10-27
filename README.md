@@ -1,7 +1,9 @@
 
 <div align="center">
 
-<img src="./rafael-dev-banner.png" width="100%" alt="Rafael Dev - Dark Gamer"/>
+<div align="center">
+  <img src="rafael-dev-banner.png" width="100%" alt="Rafael Dev - Dark Gamer">
+</div>
 
 # 🔴 RAFAEL <span>DEV</span>
 
