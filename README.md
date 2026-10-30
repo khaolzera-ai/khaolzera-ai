@@ -2,7 +2,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="rafael-dev-banner.png" width="100%" alt="Rafael Dev - Dark Gamer">
+  <img src="Perfil.png" width="100%" alt="Rafael Dev - Dark Gamer">
 </div>
 
 # 🔴 RAFAEL <span></span>
