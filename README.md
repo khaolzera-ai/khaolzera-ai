@@ -82,8 +82,8 @@ Acredito que cada erro é uma oportunidade de aprender e cada projeto é um pass
 
 ```javascript
 const rafael = {
-    nome: "Rafael",
-    foco: ["JavaScript", "Python", "Data Science"],
+    nome: "Rafael Moreira",
+    foco: ["JavaScript", "Python", "Html", "CSS"],
     nivel: "Iniciante",
     objetivo: "Evoluir todos os dias",
     mentalidade: "Sonho + Código = Realidade"
